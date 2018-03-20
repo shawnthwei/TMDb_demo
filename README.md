@@ -1,10 +1,14 @@
 # TMDb Demo
 
-Android application for demonstration the use of TMDb's api
+Android application for demonstrating the use of TMDb's api
 
 
-Screenshot:  
+
+## Screenshot
+
 ![alt text](screenshot.png "Application screenshot")
 
-Extra feature:  
+
+## Extra feature
+
 Infinite scrolling (load next page when scrolled to the bottom)
